@@ -1,1 +1,1 @@
-# dailatex6.
+# dailatex6.cf
